@@ -24,3 +24,5 @@ if __name__ == '__main__':
     unittest.main()
     if __name__ == '__main__':
         unittest.main()
+        
+        # It failed because the number 1 was expected but there was a fraction instead
